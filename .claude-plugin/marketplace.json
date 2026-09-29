@@ -1,0 +1,19 @@
+{
+  "name": "thaonguyen-qa-skills",
+  "owner": { "name": "thaonguyennguyen-qa" },
+  "metadata": { "description": "Skill cá nhân cho BA/QC: project context + bộ QC toolkit", "version": "0.1.0" },
+  "plugins": [
+    {
+      "name": "project-context",
+      "source": "./plugins/project-context",
+      "description": "Hiểu context dự án (Jira, WBS, Figma, tài liệu), phỏng vấn từng câu, lưu kho context.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "qc-toolkit",
+      "source": "./plugins/qc-toolkit",
+      "description": "9 skill QC/Tester: test case, negative test, pairwise, test plan, bug triage, risk-based, exploratory...",
+      "version": "0.1.0"
+    }
+  ]
+}

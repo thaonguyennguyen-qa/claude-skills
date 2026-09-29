@@ -1,0 +1,8 @@
+{
+  "name": "qc-toolkit",
+  "version": "0.1.0",
+  "description": "Bộ skill cho QC/Tester: viết test case, negative test, pairwise (PICT), test plan & regression suite, bug report & triage, risk-based testing, exploratory testing (SBTM), rà soát rủi ro kiểu QA, chuẩn hoá test case. Gom từ các repo mã nguồn mở MIT.",
+  "author": { "name": "thaonguyennguyen-qa" },
+  "license": "MIT",
+  "keywords": ["qa", "qc", "tester", "test case", "bug report", "test plan", "exploratory", "risk-based testing", "pairwise"]
+}
