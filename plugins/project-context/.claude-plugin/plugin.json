@@ -1,7 +1,9 @@
 {
   "name": "project-context",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Hiểu context dự án từ Jira/Confluence, WBS, Figma, tài liệu; tách yêu cầu có ID + nguồn, phỏng vấn từng câu, lưu kho context dùng xuyên suốt dự án.",
-  "author": { "name": "thaonguyennguyen-qa" },
+  "author": {
+    "name": "thaonguyennguyen-qa"
+  },
   "license": "MIT"
 }
